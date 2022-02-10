@@ -11,3 +11,5 @@ More specifically, we must perform the following steps before reaching our end g
 4. Design the adaptive controller.
 5. Simulate the response of the closed loop system for given inputs.
 
+### Note
+The pdf file named Adaptive-Control-Aircraft-Stabilization is effectively the whole assignment description. However I added this README file since the pdf file is in greek. This is an experimental application developed as part of the course "Intelligent & Adaptive Control Systems" assignment, that took place in the Department of Electrical & Computer Engineering at Aristotle University of Thessaloniki in 2020.
