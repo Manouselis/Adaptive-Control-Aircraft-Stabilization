@@ -1,4 +1,4 @@
-%Panteleimon Manouselis AEM:9249
+%Panteleimon Manouselis 
 %Script created for Second Exercise of Intelligent and Adaptive Systems
 %Main Script
 %% Erotima a
