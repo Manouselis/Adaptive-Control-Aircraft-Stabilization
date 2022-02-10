@@ -1,4 +1,4 @@
-%Panteleimon Manouselis AEM:9249
+%Panteleimon Manouselis
 %Function created for Second Exercise of Intelligent and Adaptive Systems
 function dxdt = odetostates2(t,x) %r is the input
 %Unknown Parameters:
