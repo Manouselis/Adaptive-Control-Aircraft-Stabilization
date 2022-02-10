@@ -1,4 +1,4 @@
-%Panteleimon Manouselis AEM:9249
+%Panteleimon Manouselis 
 %Function created for Second Exercise of Intelligent and Adaptive Systems
 function r = Input_r(t)
 if(t<1&&t>=0)
