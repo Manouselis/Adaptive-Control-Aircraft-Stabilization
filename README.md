@@ -1,7 +1,7 @@
 # Adaptive-Control-Aircraft-Stabilization
 We are given a dynamic system with a known equation, but unknown variables. The end goal of this assignment is to design an adaptive controller that renders all the signals of the closed loop bounded whilst simultaneously the closed loop system behaves like the following reference model:
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=\varphi_{ref}(s)=\frac{1}{s^2+1.4s+1}r(s)">
+<img src="https://render.githubusercontent.com/render/math?math=\varφ_{ref}(s) = \frac{1}{s^2 + 1.4s + 1} \cdot r(s)">
 </p>
 More specifically, we must perform the following steps before reaching our end goal:
 
